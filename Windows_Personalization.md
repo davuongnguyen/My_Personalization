@@ -6,7 +6,7 @@
 - Nếu bạn sử dụng các thiết bị của bên thứ 3, hãy tải về trình tự động cập nhật của họ. Ví dụ như nếu bạn sử dụng laptop của HP, hãy sử dụng [HP Support Assistant | HP® Support](https://support.hp.com/vn-en/help/hp-support-assistant) để cập nhật thêm các gói update khác như BIOS, ...
 - Tiếp đến là cài đặt driver của CPU cũng như GPU. Ví dụ Intell có [Intel® Driver & Support Assistant](https://www.intel.com/content/www/us/en/support/intel-driver-support-assistant.html), AMD có [AMD Drivers and Support | AMD](https://www.amd.com/en/support).
 - Tiếp đến hãy update các gói cập nhật của các phần mềm có sẵn trong [Home - Microsoft Apps](https://apps.microsoft.com/).
-- Cuối cùng hãy tải về các driver khác như [.NET Framework](https://dotnet.microsoft.com/en-us/download/dotnet-framework), [Microsoft Visual C++ Redistributable](https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170). Riêng Microsoft Visual C++ Redistributable có thể tải về qua winget theo hướng dẫn [này](Microsoft Visual C++ Redistributable/README.md).
+- Cuối cùng hãy tải về các driver khác như [.NET Framework](https://dotnet.microsoft.com/en-us/download/dotnet-framework), [Microsoft Visual C++ Redistributable](https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170). Riêng Microsoft Visual C++ Redistributable có thể tải về qua winget theo hướng dẫn [này](Microsoft_Visual_C++_Redistributable/README.md).
 
 ### Phần mềm giải nén
 
